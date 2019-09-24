@@ -1,0 +1,80 @@
+body {
+    background: bisque;
+}
+
+a {
+    color: brown;
+    font-size: 22px;
+    font-style: italic;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+h1 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.div_style1
+{
+    color: rgb(70, 32, 8);
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.div_style2{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+ul.style1 {
+    color: darksalmon;
+    text-align: left;
+    font-size: 20px;
+    list-style-image: url("krest.jpg");
+}
+
+div.menu_style {
+    font-size: 28px;
+    text-align: center;
+}
+
+input {
+    text-transform: capitalize;
+}
+
+table {
+    border: 1px solid black;
+    text-align: center;
+    border-spacing: 0px;
+}
+
+td {
+    border : 1px solid #000;
+}
+
+img {
+    border: 3px solid black;
+    margin: -3px;
+}
+
+img:hover {
+    border: 3px solid bisque;
+    margin: -3px;
+}
+
+p:first-letter {
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: chocolate;
+}
+
+
